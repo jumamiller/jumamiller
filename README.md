@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 # PORTFOLIO
 # AUTOMATE - BLOG POST
 
-## Tech stack
-<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+## Tech stack<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
@@ -41,4 +40,4 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jumamiller&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juamiller&hide=css)](https://github.com/jumamiller/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumamiller&hide=css)](https://github.com/jumamiller/github-readme-stats)
