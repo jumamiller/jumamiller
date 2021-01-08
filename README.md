@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# HI MY NAME IS JUMA, JKUAT STUDENT
+# PORTFOLIO
+# AUTOMATE - BLOG POST
