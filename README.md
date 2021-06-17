@@ -65,5 +65,8 @@ I am Miller Juma, currently pursuing my bachelor's degree majoring in computer s
 
 📕📜 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
+- [Angular 11 - JWT Authentication Example & Tutorial With PHP](https://dev.to/jumamiller/angular-11-jwt-authentication-example-tutorial-with-php-2d7d)
+- [Laravel Socialite](https://dev.to/jumamiller/laravel-socialite-3n81)
+- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
 <!-- BLOG-POST-LIST:END -->
