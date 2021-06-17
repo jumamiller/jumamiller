@@ -51,9 +51,6 @@ I am Miller Juma, currently pursuing my bachelor's degree majoring in computer s
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jumamiller&compact=True"/>
 </a>
-<--START_SECTION:waka-->
-
-<--END_SECTION:waka-->
 
 <h2> About Me</h2>
 
