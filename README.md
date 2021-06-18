@@ -18,7 +18,7 @@ I am Miller Juma, currently pursuing my bachelor's degree majoring in computer s
   <a href="https://linkedin.com/in/jumamiller">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://stackoverflow.com/users/11970826/jumamiller">
+  <a href="https://stackoverflow.com/users/13006732/miller-juma">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white">
   </a>
 </p>
