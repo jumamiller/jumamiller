@@ -27,6 +27,10 @@ I am Miller Juma, currently pursuing my bachelor's degree majoring in computer s
 ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-php-E34A86?style=flat-square&logo=php)
+![Docker](https://img.shields.io/badge/-docker-E34A86?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-E34A86?style=flat-square&logo=kubernetes)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
