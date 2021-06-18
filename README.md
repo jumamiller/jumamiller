@@ -3,7 +3,7 @@
 I am Miller Juma, currently pursuing my bachelor's degree majoring in computer science from [Jomo Kenyatta University](https://jkuat.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
-  <a href="https://twitter.com/jumamiller">
+  <a href="https://twitter.com/jumamillar">
     <img src="https://img.shields.io/twitter/follow/jumamiller?jumamiller?color=green&logo=twitter" alt="twitter" />
   </a>
   <a href="https://github.com/jumamiller/jumamiller">
