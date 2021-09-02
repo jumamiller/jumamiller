@@ -66,8 +66,8 @@ I am Miller Juma, currently pursuing my bachelor's degree majoring in computer s
 
 📕📜 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Routing with Angular 11 Router: Full-Tutorial](https://dev.to/jumamiller/routing-with-angular-11-router-full-tutorial-3j5)
 - [Angular 11 - JWT Authentication Example & Tutorial With PHP](https://dev.to/jumamiller/angular-11-jwt-authentication-example-tutorial-with-php-2d7d)
 - [Laravel Socialite](https://dev.to/jumamiller/laravel-socialite-3n81)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
