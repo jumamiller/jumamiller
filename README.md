@@ -1,6 +1,6 @@
 ## Fancy seeing you here! 
 
-I am Miller Juma, A Software Engineer @SasaPay, ex Kinetics, ex Kuza Lab ex computer science major from [Jomo Kenyatta University](https://jkuat.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Miller Juma, A Software Engineer @Solutech,ex SasaPay ex Kinetics, ex Kuza Lab ex computer science major from [Jomo Kenyatta University](https://jkuat.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
   <a href="https://twitter.com/jumamillar">
